@@ -5,6 +5,6 @@ This README depics the progress of Thesis Work by Urdhwa
 ## 22/11/17-29/11/17
 - [ ] History of OC6
 - [ ] Analysis of various CI Tests
-- [ ] How to measure if TC is effective
+- [ ] Basis to measure if a Test Case is effective
 ## 29/11/17-06/12/17
 ## 06/12/17-13/12/17
