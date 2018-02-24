@@ -1,5 +1,5 @@
 # Urdhwa-Thesis
-This README depics the progress of Thesis Work by Urdhwa
+This README depicts the progress of Thesis Work by Urdhwa
 ## 15/11/17-22/11/17
 - [x] Overview of Opticm6
 ## 22/11/17-29/11/17
@@ -21,3 +21,15 @@ This README depics the progress of Thesis Work by Urdhwa
 ## 17/01/18-24/01/18
 - [x] Found new algorithm for optimisation based on past results
 - [x] Disscussed ideas based on window's size of the test cases to be considered
+## 24/01/18-02/02/18
+- [x] Implemented the algorithm using excel VBA 
+- [x] Verified the result for various test cases
+- [x] The optimisation criteria is in terms of reducing the number of test cases
+## 02/02/18-08/02/18
+- [x] Implementation of algorithm per component basis
+- [x] Tackling of issue, components not indicated in database using some particular field
+- [x] Implementing the algorithm using python
+## 02/02/18-09/02/18
+- [x] Using the Gerrit IDs to make out various CIs for different component from DB
+- [x] Extracting data for each test case of these CI specially its status
+- [x] Implementing the algorithm to predict the inclusiveness of a particular test case based on history for each test case
