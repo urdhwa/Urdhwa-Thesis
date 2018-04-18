@@ -55,7 +55,7 @@ This README depicts the progress of Thesis Work by Urdhwa
 - [x] Described a framework for evaluating algorithm
 - [x] Precision
 - [x] Recall
-- [x]Inclusiveness
+- [x] Inclusiveness
 - [x] Preparation of intermediate presentation
 ## 14/03/18-21/03/18
 - [x] Intermediate presentation missed 
@@ -74,4 +74,4 @@ This README depicts the progress of Thesis Work by Urdhwa
 - [x] Writeup of first 2 sections
 - [x] Why HBRTS is better then other RTS schemes
 - [x] Improvement in the TN although more 2 parses
-- [x] 
+
