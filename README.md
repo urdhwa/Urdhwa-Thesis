@@ -41,3 +41,37 @@ This README depicts the progress of Thesis Work by Urdhwa
 ## 14/02/18-21/02/18
 - [x] Analysis of various window sizes on each continous integration or CI instead of Test case
 - [x] Analysis of improvement in each CI with the usuage of the algorithm over retest-all strategy.
+
+## 14/02/18-21/02/18
+- [x] Results shown for various We and Wf sizes 
+- [x] There were 100 * 100 window sizes of each Wf and We
+- [x] One of the conclusion is that there is no selected set of TCs which will optimize
+- [x] Importance of effectiveness
+## 21/02/18-28/02/18
+-  Sick
+## 28/02/18-07/03/18
+- Sick
+## 07/03/18-14/03/18
+- [x] Described a framework for evaluating algorithm
+- [x] Precision
+- [x] Recall
+- [x]Inclusiveness
+- [x] Preparation of intermediate presentation
+## 14/03/18-21/03/18
+- [x] Intermediate presentation missed 
+## 21/03/18-28/02/18
+- [x] Generality
+- [x] Various possible aspects of generality
+- [x] Comparision with two different RTS schemes based on generality
+## 28/03/18-04/04/18
+- [x] Implemented misconfiguration check
+- [x] Improvement in true negatives
+- [x] Presented the overall idea of the algortihm
+## 04/04/18-11/04/18
+- Break 
+## 11/04/18-18/04/18
+- [x] Structure
+- [x] Writeup of first 2 sections
+- [x] Why HBRTS is better then other RTS schemes
+- [x] Improvement in the TN although more 2 parses
+- [x] 
